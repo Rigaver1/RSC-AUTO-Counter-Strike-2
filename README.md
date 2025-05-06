@@ -105,8 +105,7 @@ I was unable to fix this bug. To resolve it, simply close the AHK script and res
 
 ## 💬 Feedback
 
-If you like this upgrade, support the project with a ⭐ and leave a comment!  
-Your feedback helps me keep improving and adding new features 🙌
+
 
 
 
