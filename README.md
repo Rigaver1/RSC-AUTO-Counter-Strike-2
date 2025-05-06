@@ -1,5 +1,5 @@
 # 🔫 Auto Weapon Switch for AHK MultiScript | Pean's RCS  
-### 💡 Enhanced by PilgrimMites
+### 💡 https://www.unknowncheats.me/forum/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html
 
 ---
 
