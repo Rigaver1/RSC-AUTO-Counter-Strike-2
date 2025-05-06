@@ -1,0 +1,18 @@
+pyinstaller --onefile --manifest admin.manifest
+
+pyinstaller Settings.py --onefile --manifest admin.manifest --hidden-import=win32gui --hidden-import=win32con --hidden-import=flask
+
+
+
+weapon_p90
+weapon_mp5sd
+weapon_ak47
+weapon_m4a1
+weapon_famas
+weapon_galilar
+weapon_aug
+weapon_sg556
+weapon_mac10
+
+
+pip install flask pywin32
