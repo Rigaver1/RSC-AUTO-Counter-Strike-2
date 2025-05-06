@@ -6,6 +6,7 @@
 ## 📝 Introduction
 
 Hello to all fans of AHK MultiScript and Pean's RCS!
+https://github.com/PilgrimMitesV2/AHK-MultiScript/tree/main
 
 I've always admired this project, and I decided to implement one important feature — **automatic weapon switching**.
 
@@ -101,7 +102,7 @@ Russian
 ## 📝 Введение
 
 Привет всем фанатам AHK MultiScript и Pean's RCS!
-
+https://github.com/PilgrimMitesV2/AHK-MultiScript/tree/main
 Меня давно вдохновляет этот проект, и я решил реализовать одну важную функцию — **автоматическое переключение оружия**.
 
 > ❗ Проблема: если реализовать это на чистом AHK, придётся читать память игры. Это **100% риск VAC-бана**.  
