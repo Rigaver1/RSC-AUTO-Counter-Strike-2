@@ -24,5 +24,5 @@
 
 В кончоли пропишите устаноку компонентов python 
 
-pip install flask pywin32
+      pip install flask pywin32  
 
