@@ -38,29 +38,9 @@ With [CounterStrike2GSI](https://github.com/antonpup/CounterStrike2GSI), we can 
 
 ---
 
-### 2. Install Python
+### . Install P
 
-- Go to the [official Python website](https://www.python.org/downloads)
-- During installation, make sure to check:
-
-```
-☑ Add Python to PATH  
-☑ Install pip
-```
-
----
-
-### 3. Install Required Libraries
-
-Open `CMD` (`Win + R → cmd`) and enter:
-
-```bash
-pip install flask pywin32
-```
-
----
-
-### 4. Configure Game State Integration
+### . Configure Game State Integration
 
 1. Copy `GameStateIntegration_MyCS2.cfg` from the archive  
 2. In Steam: **Right-click CS2 → Properties → Installed Files → Browse**  
@@ -70,14 +50,19 @@ pip install flask pywin32
 ...\game\csgo\cfg
 ```
 
-4. Paste the `.cfg` file into that directory
+. Paste the `.cfg` file into that directory
+
+---
+
+
+
+
 
 ---
 
 ### 5. Launch the Scripts
 
-1. Run `RCS AUTO.bat`  
-2. Then run `A_Main_Run_this.ahk`
+1. Run `RCS AUTO.exe`  
 
 ---
 
@@ -90,8 +75,7 @@ This will break the auto-switch system.
 ---
 
 ### 🔄 If switching stops working:
-The switching will stop working immediately after you configure and save the settings.
-I was unable to fix this bug. To resolve it, simply close the AHK script and restart A_Main_Run_this.ahk.
+After the change, save and press F2 to restart the script 
 
 ![image](https://github.com/user-attachments/assets/59d628fa-14bc-4c44-85fa-18d89fad72be)
 
