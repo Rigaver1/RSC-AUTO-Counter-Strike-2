@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+suppliers.xlsx
+rfq_*.txt
